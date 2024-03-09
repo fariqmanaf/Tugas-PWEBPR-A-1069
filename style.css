@@ -427,7 +427,7 @@ main .title{
     color: white;
 }
 
-@media screen and (min-width: 200px) and (max-width: 1280px) {
+@media screen and (min-width: 425px) and (max-width: 1280px) {
 
     header .nav-container{
         position: fixed;
